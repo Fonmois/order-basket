@@ -82,7 +82,7 @@ p {
 }
 
 .open__basket {
-    background-image: url(/img/basket.svg);
+    background-image: url('/img/basket.svg');
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
@@ -94,7 +94,7 @@ p {
 }
 
 .close__basket {
-    background-image: url(/img/close.svg);
+    background-image: url('/img/close.svg');
     background-repeat: no-repeat;
     width: 64px;
     height: 64px;
